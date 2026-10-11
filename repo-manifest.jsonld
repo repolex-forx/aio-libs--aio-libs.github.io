@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/aio-libs.github.io/commit/9a757da58945414c01c5b83be45ea7fca3efd570",
       "git:hexsha": "9a757da58945414c01c5b83be45ea7fca3efd570",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
