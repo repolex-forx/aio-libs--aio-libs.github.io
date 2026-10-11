@@ -1,0 +1,46 @@
+{
+  "manifest_version": "1.0",
+  "org": "aio-libs",
+  "repo": "aio-libs.github.io",
+  "versions": [
+    {
+      "commit": "9a757da58945414c01c5b83be45ea7fca3efd570",
+      "parsed_at": "2026-10-11T08:09:51.371822+00:00",
+      "filetree": "filetree/9a757da58945414c01c5b83be45ea7fca3efd570.nq.gz",
+      "blobs": [
+        "blob/c50dd77c4f8e55cba6d8c3653ebdb0f0ef52c01f.nq.gz",
+        "blob/85dfaa70237a7a8b5449b99b8baa6c34af4e5551.nq.gz",
+        "blob/798b1f12baf05e99ba669633dcf755b7d79ca015.nq.gz",
+        "blob/22ed6809c751f8826e575ca0d5bcb70836667b69.nq.gz",
+        "blob/b9fb8a6e0f4a5ce99899eb97d872c6b90f4bb678.nq.gz",
+        "blob/1ad21689737540eff5a3302dd8bfb208e451b9c5.nq.gz",
+        "blob/6d394e5d1a83d15ec88bcb5ae6312efa3bfa42a2.nq.gz",
+        "blob/308cf128257742f5748a31a27d2c245c8f445857.nq.gz",
+        "blob/8064ae45f78437d8366ce6e97c96500b9fca666f.nq.gz",
+        "blob/a93e7c7c0559d4ff969b3a18b2a010cf949d0b8f.nq.gz",
+        "blob/0b3ebacb0bf7deea8ee9a68b7bfd20d10fc07be3.nq.gz",
+        "blob/748aa882f8b9340547addc69cc436ff31a7be1eb.nq.gz",
+        "blob/3314b3f2cfef22e7629011c93dec08634364458d.nq.gz",
+        "blob/518f807b9d76231c1fc3beebf418e688fcc67ffd.nq.gz",
+        "blob/aa1b7c6890ce12f157c74a9114afc87e6cdae9ef.nq.gz",
+        "blob/d1ca01f62eaf78f2b719f22184a5fddc76313376.nq.gz",
+        "blob/dc4e0da42182d8b97b75bc6d7052d24ff7c967c5.nq.gz",
+        "blob/f9fc04f8e1a0afff30b8492a8a76f6518488d5c6.nq.gz",
+        "blob/7ba5c04f7240b6d35aae2a7dd28a4d29d0a3d5ce.nq.gz",
+        "blob/238827eb2372e86dd5a41ebc96d22a274bc2f03d.nq.gz",
+        "blob/5da929f2371863ed71709a149a0027f116b55b6d.nq.gz",
+        "blob/b579bb313db90cc5425095d23dba950aa6612dc3.nq.gz",
+        "blob/06b167d671c576e05418923ca2dcc0b3d4ef53ec.nq.gz",
+        "blob/8410c60256ecb19727b52f79e41973ffac4787f3.nq.gz",
+        "blob/cbdf9fe61300e144fdaab991cb8b65086ecb0684.nq.gz",
+        "blob/4a5d51c6e4c1dcb7fc6393e04023911b6552601d.nq.gz",
+        "blob/826d274d7f83814a93b3b5651df1998dc50d5c00.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
